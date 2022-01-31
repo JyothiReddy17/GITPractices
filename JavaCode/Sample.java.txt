@@ -8,6 +8,6 @@ public static void main(String args[]){
 	int num1 = sc.nextInt();
 	int num2= sc.nextint();
 	int result= num1+num2;
-	System.out.println("Addition result is: "result);
+	System.out.println("Addition result: "result);
 	}
 }
